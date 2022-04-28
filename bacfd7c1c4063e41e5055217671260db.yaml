@@ -1,0 +1,975 @@
+﻿FontPath: "Gothic"
+FontSize: 26
+ColorR: 1
+ColorG: 1
+ColorB: 1
+ColorA: 1
+PaddingX: 0
+PaddingY: 0
+FontStyle: Regular
+TrimTransparency: Yes
+EffectsOnly: Yes
+Debug: No
+Effects:
+  - Type: "StorybrewCommon.Subtitles.FontGlow"
+    Radius: 1
+    Power: 0
+    ColorR: 1
+    ColorG: 1
+    ColorB: 1
+    ColorA: 0.3921569
+Cache:
+  - Text: "君"
+    Path: "sb/f/glow/541b.png"
+    Hash: "82f2b878f4564440993050afa3b8d674"
+    OffsetX: 0
+    OffsetY: 1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 37
+  - Text: "の"
+    Path: "sb/f/glow/306e.png"
+    Hash: "7d360c099ebb45cb26575236799b1021"
+    OffsetX: 0
+    OffsetY: 2
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 32
+    Height: 33
+  - Text: "好"
+    Path: "sb/f/glow/597d.png"
+    Hash: "5f2cc633c22507ad8e07a1d9588118ec"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 37
+  - Text: "き"
+    Path: "sb/f/glow/304d.png"
+    Hash: "2f50bc5f884a22991b61685224beded7"
+    OffsetX: 1
+    OffsetY: -1
+    BaseWidth: 29
+    BaseHeight: 40
+    Width: 28
+    Height: 37
+  - Text: "な"
+    Path: "sb/f/glow/306a.png"
+    Hash: "9640d6793d4649c8c801ab0deb1b2c63"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 33
+    BaseHeight: 40
+    Width: 32
+    Height: 38
+  - Text: "と"
+    Path: "sb/f/glow/3068.png"
+    Hash: "707defcc9802e5304f14a9f174517540"
+    OffsetX: -1
+    OffsetY: 1
+    BaseWidth: 24
+    BaseHeight: 40
+    Width: 26
+    Height: 35
+  - Text: "こ"
+    Path: "sb/f/glow/3053.png"
+    Hash: "23ded57f8dc74a3191d7f01f56231b4d"
+    OffsetX: 0
+    OffsetY: 3
+    BaseWidth: 27
+    BaseHeight: 40
+    Width: 27
+    Height: 32
+  - Text: "ろ"
+    Path: "sb/f/glow/308d.png"
+    Hash: "9a818734fc78f535b1a8581520ca0858"
+    OffsetX: -1
+    OffsetY: 1
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 29
+    Height: 35
+  - Text: "変"
+    Path: "sb/f/glow/5909.png"
+    Hash: "61056f37a3b83c28c18ce9d203309a8d"
+    OffsetX: 1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 37
+    Height: 39
+  - Text: "癖"
+    Path: "sb/f/glow/7656.png"
+    Hash: "fafd5d049a7b280f882ede2a584f1dd4"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 39
+  - Text: "が"
+    Path: "sb/f/glow/304c.png"
+    Hash: "35f120f315a754a944b6186cd8d554fd"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 33
+    Height: 37
+  - Text: "あ"
+    Path: "sb/f/glow/3042.png"
+    Hash: "b59de45fb9f78400a8b171f849c8c4c8"
+    OffsetX: 1
+    OffsetY: -1
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 30
+    Height: 38
+  - Text: "る"
+    Path: "sb/f/glow/308b.png"
+    Hash: "4c6ac1ced47dad6e87cb6318374938a2"
+    OffsetX: -1
+    OffsetY: 1
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 29
+    Height: 36
+  - Text: "無"
+    Path: "sb/f/glow/7121.png"
+    Hash: "c81afe9ebd93ff83a15be730699f49b0"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 38
+  - Text: "表"
+    Path: "sb/f/glow/8868.png"
+    Hash: "02370e892b1d6a539aca42dd295cabba"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 39
+  - Text: "情"
+    Path: "sb/f/glow/60c5.png"
+    Hash: "8b8963e2ebcd94ff29af4033921af655"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 39
+  - Text: "に"
+    Path: "sb/f/glow/306b.png"
+    Hash: "909c5d4d0076ddafc859fe865079414a"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 31
+    Height: 36
+  - Text: "キ"
+    Path: "sb/f/glow/30ad.png"
+    Hash: "ca5f70214175e42b2fec7200ad1431d7"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 31
+    Height: 37
+  - Text: "ュ"
+    Path: "sb/f/glow/30e5.png"
+    Hash: "f18a28ad7de0908157ee1c0cd33b3fb3"
+    OffsetX: -1
+    OffsetY: 10
+    BaseWidth: 26
+    BaseHeight: 40
+    Width: 27
+    Height: 25
+  - Text: "っ"
+    Path: "sb/f/glow/3063.png"
+    Hash: "7729614265d94777d29a73dc52b31585"
+    OffsetX: -1
+    OffsetY: 10
+    BaseWidth: 24
+    BaseHeight: 40
+    Width: 26
+    Height: 24
+  - Text: "上"
+    Path: "sb/f/glow/4e0a.png"
+    Hash: "8d460f1a60701a5c3481e5fc4ad14800"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 37
+    Height: 34
+  - Text: "口"
+    Path: "sb/f/glow/53e3.png"
+    Hash: "939f8cc45479fd4f210b07ebb366db5e"
+    OffsetX: 3
+    OffsetY: 3
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 31
+    Height: 31
+  - Text: "角"
+    Path: "sb/f/glow/89d2.png"
+    Hash: "faff2a27a7c168bd31eb469afd36e999"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 35
+    Height: 39
+  - Text: "合"
+    Path: "sb/f/glow/5408.png"
+    Hash: "4f9e9f83fec1b6c78bf376551e6dab48"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 38
+  - Text: "格"
+    Path: "sb/f/glow/683c.png"
+    Hash: "f2b96f7c72efcd52d166d23d00e2e949"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 40
+    Height: 39
+  - Text: "点"
+    Path: "sb/f/glow/70b9.png"
+    Hash: "669df300719783d5b8c597ddc38f8b9c"
+    OffsetX: 1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 36
+    Height: 38
+  - Text: "を"
+    Path: "sb/f/glow/3092.png"
+    Hash: "5551e1b302ccab1c05b54d2daf0202ce"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 29
+    BaseHeight: 40
+    Width: 30
+    Height: 38
+  - Text: "げ"
+    Path: "sb/f/glow/3052.png"
+    Hash: "1fe88fa116a47eabe1125db2e1774f67"
+    OffsetX: 1
+    OffsetY: -1
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 32
+    Height: 38
+  - Text: "よ"
+    Path: "sb/f/glow/3088.png"
+    Hash: "0bbb6bef8c5dc0258962263df996b35f"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 29
+    BaseHeight: 40
+    Width: 29
+    Height: 37
+  - Text: "手"
+    Path: "sb/f/glow/624b.png"
+    Hash: "2baa204df272a031dd180764f9684999"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 37
+  - Text: "く"
+    Path: "sb/f/glow/304f.png"
+    Hash: "4e961b095af859f0d932bb2d6ca32a04"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 20
+    BaseHeight: 40
+    Width: 19
+    Height: 37
+  - Text: "で"
+    Path: "sb/f/glow/3067.png"
+    Hash: "3d6ea129b159d1bd7c4127a2b5ec8b59"
+    OffsetX: -1
+    OffsetY: 3
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 33
+    Height: 33
+  - Text: "て"
+    Path: "sb/f/glow/3066.png"
+    Hash: "ff1df98846ec1291fb8dac871c262820"
+    OffsetX: -1
+    OffsetY: 3
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 31
+    Height: 33
+  - Text: "ね"
+    Path: "sb/f/glow/306d.png"
+    Hash: "0f0ea98055b2d77c88b6cb694e9764b9"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 34
+    BaseHeight: 40
+    Width: 35
+    Height: 38
+  - Text: "褒"
+    Path: "sb/f/glow/8912.png"
+    Hash: "a6244259317511cb341633f42217aee3"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 39
+  - Text: "め"
+    Path: "sb/f/glow/3081.png"
+    Hash: "9ebb01c352e23e1b4960ed1711915097"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 32
+    Height: 36
+  - Text: "れ"
+    Path: "sb/f/glow/308c.png"
+    Hash: "63260d0d7456645d670244559a84236e"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 34
+    BaseHeight: 40
+    Width: 35
+    Height: 38
+  - Text: "は"
+    Path: "sb/f/glow/306f.png"
+    Hash: "2e0c161fa5523210925ca432cad04509"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 33
+    BaseHeight: 40
+    Width: 32
+    Height: 36
+  - Text: "い"
+    Path: "sb/f/glow/3044.png"
+    Hash: "6e78bd7bb903af549a17e09c357a4a4c"
+    OffsetX: 1
+    OffsetY: 3
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 31
+    Height: 33
+  - Text: "た"
+    Path: "sb/f/glow/305f.png"
+    Hash: "35b14e854d3747dbd798f9d8911aba73"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 31
+    Height: 37
+  - Text: "何"
+    Path: "sb/f/glow/4f55.png"
+    Hash: "88895f6070ea41f1102bb142892c8e5a"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 40
+    Height: 39
+  - Text: "見"
+    Path: "sb/f/glow/898b.png"
+    Hash: "a005a570bba64f018b802b20c1e65dd7"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 38
+  - Text: "さ"
+    Path: "sb/f/glow/3055.png"
+    Hash: "05f59448082dab7fb40c3ad02cbdc590"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 27
+    BaseHeight: 40
+    Width: 27
+    Height: 38
+  - Text: "ら"
+    Path: "sb/f/glow/3089.png"
+    Hash: "521ce32989add345ab965a953b51ad1d"
+    OffsetX: 1
+    OffsetY: 0
+    BaseWidth: 27
+    BaseHeight: 40
+    Width: 26
+    Height: 37
+  - Text: "び"
+    Path: "sb/f/glow/3073.png"
+    Hash: "588ecd725c48f9e0d67c81fd1ba6dc67"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 33
+    Height: 37
+  - Text: "ふ"
+    Path: "sb/f/glow/3075.png"
+    Hash: "2de9021140f30bdabcf631d347c0fdbf"
+    OffsetX: -1
+    OffsetY: 0
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 33
+    Height: 36
+  - Text: "り"
+    Path: "sb/f/glow/308a.png"
+    Hash: "bcfa8b05e0aa3df0f1298cb66069bc4e"
+    OffsetX: 1
+    OffsetY: 0
+    BaseWidth: 24
+    BaseHeight: 40
+    Width: 23
+    Height: 37
+  - Text: "ま"
+    Path: "sb/f/glow/307e.png"
+    Hash: "d067b1682c17d8e1f5230cec7905043a"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 29
+    BaseHeight: 40
+    Width: 29
+    Height: 37
+  - Text: "だ"
+    Path: "sb/f/glow/3060.png"
+    Hash: "9b5130457c3273b64d28d8127c181d2b"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 32
+    Height: 37
+  - Text: "微"
+    Path: "sb/f/glow/5fae.png"
+    Hash: "6e98349fa1fe360947b52ab43b823285"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 40
+    Height: 39
+  - Text: "妙"
+    Path: "sb/f/glow/5999.png"
+    Hash: "d73b3f413690dddf3f5d00cae8b1faaa"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 39
+  - Text: "距"
+    Path: "sb/f/glow/8ddd.png"
+    Hash: "7e8e66746429ea104fee8085742f8f7f"
+    OffsetX: 0
+    OffsetY: 1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 37
+  - Text: "離"
+    Path: "sb/f/glow/96e2.png"
+    Hash: "a3a48db15503629e608dd19506889b7d"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 39
+  - Text: "も"
+    Path: "sb/f/glow/3082.png"
+    Hash: "585f6235e18afced10ce7145e747be56"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 28
+    Height: 38
+  - Text: "ゆ"
+    Path: "sb/f/glow/3086.png"
+    Hash: "62dcddb94b5ba049a93b74edbf092c41"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 33
+    BaseHeight: 40
+    Width: 31
+    Height: 37
+  - Text: "揺"
+    Path: "sb/f/glow/63fa.png"
+    Hash: "5e2601d84c044252b2dfdbf76b45a2b0"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 39
+  - Text: "気"
+    Path: "sb/f/glow/6c17.png"
+    Hash: "63ccc6556f29658493ec2bf87b01c3d9"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 38
+  - Text: "持"
+    Path: "sb/f/glow/6301.png"
+    Hash: "28294947fde7cfb7a9d97afd44a60f0a"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 39
+  - Text: "ち"
+    Path: "sb/f/glow/3061.png"
+    Hash: "3942d23b88672b789815d43f130fe45f"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 29
+    Height: 37
+  - Text: "か"
+    Path: "sb/f/glow/304b.png"
+    Hash: "328c6a1e925c964f00433f7a49dd0d5c"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 32
+    Height: 36
+  - Text: "指"
+    Path: "sb/f/glow/6307.png"
+    Hash: "4082aa7af454b6270b99a41d40fac1b4"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 39
+  - Text: "先"
+    Path: "sb/f/glow/5148.png"
+    Hash: "2d45e0cbad5cc78584afb9fd633a9bfd"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 37
+    Height: 37
+  - Text: "振"
+    Path: "sb/f/glow/632f.png"
+    Hash: "1a8898aeb3c0a0dbd6ca99b3914fa03b"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 39
+  - Text: "触"
+    Path: "sb/f/glow/89e6.png"
+    Hash: "6a9db9b93eae7765bc4d0f36e5fba461"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 40
+    Height: 39
+  - Text: "溢"
+    Path: "sb/f/glow/6ea2.png"
+    Hash: "7fddbf1d645d9c6abc728a36cec84251"
+    OffsetX: -1
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 37
+  - Text: "重"
+    Path: "sb/f/glow/91cd.png"
+    Hash: "777afe649c537bfe2f4d33af479e487a"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 38
+  - Text: "八"
+    Path: "sb/f/glow/516b.png"
+    Hash: "90740f63ee47f682f5e0484c01cf8666"
+    OffsetX: 0
+    OffsetY: 1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 35
+  - Text: "月"
+    Path: "sb/f/glow/6708.png"
+    Hash: "f1d65aa05b40574f488b1c993f73ea79"
+    OffsetX: 1
+    OffsetY: 1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 31
+    Height: 37
+  - Text: "夜"
+    Path: "sb/f/glow/591c.png"
+    Hash: "16b1d2e5c811d4515de322293a818a9d"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 39
+  - Text: "募"
+    Path: "sb/f/glow/52df.png"
+    Hash: "2bc671caab6986ba4337dc062870bbc7"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 39
+  - Text: "I"
+    Path: "sb/f/glow/0049.png"
+    Hash: "d7bf8ecad2e14b3750217e8ce00c4d8c"
+    OffsetX: 1
+    OffsetY: 5
+    BaseWidth: 10
+    BaseHeight: 40
+    Width: 8
+    Height: 29
+  - Text: "l"
+    Path: "sb/f/glow/006c.png"
+    Hash: "517cc8c3f8511709739beb761acc5016"
+    OffsetX: 0
+    OffsetY: 5
+    BaseWidth: 8
+    BaseHeight: 40
+    Width: 8
+    Height: 29
+  - Text: "o"
+    Path: "sb/f/glow/006f.png"
+    Hash: "54750c7db416f141ab33b1c88f529230"
+    OffsetX: -1
+    OffsetY: 11
+    BaseWidth: 20
+    BaseHeight: 40
+    Width: 22
+    Height: 23
+  - Text: "v"
+    Path: "sb/f/glow/0076.png"
+    Hash: "4739da1a51f7eb73e1fc1c4cb93a5a2b"
+    OffsetX: -1
+    OffsetY: 11
+    BaseWidth: 18
+    BaseHeight: 40
+    Width: 20
+    Height: 23
+  - Text: "e"
+    Path: "sb/f/glow/0065.png"
+    Hash: "3fb5b3cdd4d3249dbdc9aff0b3f2078f"
+    OffsetX: -1
+    OffsetY: 11
+    BaseWidth: 20
+    BaseHeight: 40
+    Width: 22
+    Height: 23
+  - Text: "y"
+    Path: "sb/f/glow/0079.png"
+    Hash: "ecfc1bc7ac452cf8e305ab397ea0335a"
+    OffsetX: -1
+    OffsetY: 11
+    BaseWidth: 18
+    BaseHeight: 40
+    Width: 20
+    Height: 30
+  - Text: "u"
+    Path: "sb/f/glow/0075.png"
+    Hash: "3d7ced3ee78490aa1d12cf37e92ca57b"
+    OffsetX: 0
+    OffsetY: 11
+    BaseWidth: 20
+    BaseHeight: 40
+    Width: 19
+    Height: 23
+  - Text: "帰"
+    Path: "sb/f/glow/5e30.png"
+    Hash: "2c9432e868e4ba8063642b0dea7475d7"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 38
+  - Text: "道"
+    Path: "sb/f/glow/9053.png"
+    Hash: "efd9cb6e44da9b751e59292fd9bcc49b"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 38
+  - Text: "買"
+    Path: "sb/f/glow/8cb7.png"
+    Hash: "a809da3d22b9a30754e0a00225b4554d"
+    OffsetX: 2
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 35
+    Height: 38
+  - Text: "ア"
+    Path: "sb/f/glow/30a2.png"
+    Hash: "9f60bd63ef9cfe0196deb9b315c18575"
+    OffsetX: 0
+    OffsetY: 2
+    BaseWidth: 29
+    BaseHeight: 40
+    Width: 29
+    Height: 35
+  - Text: "イ"
+    Path: "sb/f/glow/30a4.png"
+    Hash: "7ad23a7431b5bb05144164ef6ffe26c2"
+    OffsetX: -1
+    OffsetY: 0
+    BaseWidth: 28
+    BaseHeight: 40
+    Width: 27
+    Height: 37
+  - Text: "ス"
+    Path: "sb/f/glow/30b9.png"
+    Hash: "9eddeb680943743f127b4c3f40b5ea95"
+    OffsetX: -1
+    OffsetY: 3
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 32
+    Height: 34
+  - Text: "残"
+    Path: "sb/f/glow/6b8b.png"
+    Hash: "1def01985ebbcaf943655223f9b701a2"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 38
+  - Text: "し"
+    Path: "sb/f/glow/3057.png"
+    Hash: "6b2f3d161da2ce93bd566adfef9d1c8d"
+    OffsetX: 3
+    OffsetY: 1
+    BaseWidth: 28
+    BaseHeight: 40
+    Width: 25
+    Height: 35
+  - Text: "次"
+    Path: "sb/f/glow/6b21.png"
+    Hash: "95b244198be9e3b53dd3e3e691925355"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 38
+  - Text: "ど"
+    Path: "sb/f/glow/3069.png"
+    Hash: "d801f84ee0507a6f16b5cfc8eab3b6b5"
+    OffsetX: -1
+    OffsetY: 1
+    BaseWidth: 29
+    BaseHeight: 40
+    Width: 30
+    Height: 35
+  - Text: "う"
+    Path: "sb/f/glow/3046.png"
+    Hash: "0739c57bf26eb84dd990815cc22f8c11"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 23
+    BaseHeight: 40
+    Width: 24
+    Height: 38
+  - Text: "作"
+    Path: "sb/f/glow/4f5c.png"
+    Hash: "ed8cd2929085dce5adad10c7b8de97e5"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 38
+  - Text: "ん"
+    Path: "sb/f/glow/3093.png"
+    Hash: "f320089fd60556bcd3d0ae3fa70c34ad"
+    OffsetX: -1
+    OffsetY: 0
+    BaseWidth: 32
+    BaseHeight: 40
+    Width: 33
+    Height: 37
+  - Text: "少"
+    Path: "sb/f/glow/5c11.png"
+    Hash: "98c082f7780f8f6adb7ad13fd93c7004"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 38
+  - Text: "ず"
+    Path: "sb/f/glow/305a.png"
+    Hash: "fce9be8efdaeacc307234bb7b134fc7b"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 33
+    BaseHeight: 40
+    Width: 33
+    Height: 39
+  - Text: "つ"
+    Path: "sb/f/glow/3064.png"
+    Hash: "f71abd59d683a223ac1fc8b6ce339224"
+    OffsetX: -1
+    OffsetY: 5
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 31
+    Height: 29
+  - Text: "酔"
+    Path: "sb/f/glow/9154.png"
+    Hash: "09e602664204dbefa785ed84d9006308"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 38
+  - Text: "漂"
+    Path: "sb/f/glow/6f02.png"
+    Hash: "3611c354158283425fb2401b180fa995"
+    OffsetX: -1
+    OffsetY: 0
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 38
+  - Text: "冷"
+    Path: "sb/f/glow/51b7.png"
+    Hash: "25d24a8aeaf857b3970535fb36521953"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 39
+  - Text: "凍"
+    Path: "sb/f/glow/51cd.png"
+    Hash: "f6f3f9644fddb341f888bd0801c223f9"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 39
+  - Text: "保"
+    Path: "sb/f/glow/4fdd.png"
+    Hash: "28d0f6dd25ac04ed74663558f3b4c196"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 39
+  - Text: "存"
+    Path: "sb/f/glow/5b58.png"
+    Hash: "e3bd563f34fcabd79a6805b9aa1d8e60"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 38
+  - Text: "愛"
+    Path: "sb/f/glow/611b.png"
+    Hash: "25a540612beec53119a5f5f24ff0be7d"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 38
+  - Text: "溶"
+    Path: "sb/f/glow/6eb6.png"
+    Hash: "a57b0d293835105d1100f319f0fa0346"
+    OffsetX: 0
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 38
+    Height: 39
+  - Text: "会"
+    Path: "sb/f/glow/4f1a.png"
+    Hash: "1528c68fb7efd1b75d960c25b11d2835"
+    OffsetX: -1
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 38
+  - Text: "え"
+    Path: "sb/f/glow/3048.png"
+    Hash: "70a70546126e5cf9ee7e26e873d03483"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 30
+    BaseHeight: 40
+    Width: 30
+    Height: 36
+  - Text: "理"
+    Path: "sb/f/glow/7406.png"
+    Hash: "c03bb85c5188a4725841771b0d21b752"
+    OffsetX: 0
+    OffsetY: 1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 39
+    Height: 35
+  - Text: "由"
+    Path: "sb/f/glow/7531.png"
+    Hash: "0e99a3a6407567eff3595088cd903819"
+    OffsetX: 3
+    OffsetY: -1
+    BaseWidth: 39
+    BaseHeight: 40
+    Width: 32
+    Height: 38
+  - Text: "や"
+    Path: "sb/f/glow/3084.png"
+    Hash: "4d85344cc25c63fa723f473176090900"
+    OffsetX: 0
+    OffsetY: 0
+    BaseWidth: 33
+    BaseHeight: 40
+    Width: 33
+    Height: 37
